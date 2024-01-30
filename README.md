@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is my first git reporistory
+This is my first git reporistory
+Author-gautam poriya
